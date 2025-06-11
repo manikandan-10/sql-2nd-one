@@ -1,14 +1,14 @@
 Query 1: create schooldata table with two columns this is the first table
-![Screenshot (49)](https://github.com/user-attachments/assets/5dbc6dd8-4250-4133-94ef-8b4b46b07d7f)
+![Screenshot (55)](https://github.com/user-attachments/assets/9017e894-d1f4-442e-86fa-5a4d15240b00)
 
 Query 2: create 2nd table schooldatabase with six columns
-![image](https://github.com/user-attachments/assets/e7d23b26-87a4-4d4c-8501-c315e104f441)
+![Screenshot (54)](https://github.com/user-attachments/assets/82413619-7e25-4503-b3e8-0e33700d0a61)
 
 Query 3: create 3rd table with five columns
-![Screenshot (52)](https://github.com/user-attachments/assets/a81b0380-a969-4153-80b6-9786e2b4ab3d)
+![Screenshot (53)](https://github.com/user-attachments/assets/0ad8ac3c-e331-4649-9006-4bc3303b4296)
 
 Query 4 : get details table through chapter
- ![Screenshot (36)](https://github.com/user-attachments/assets/66cba176-7aa1-4411-98ef-e95eed402de1)
+![Screenshot (36)](https://github.com/user-attachments/assets/66cba176-7aa1-4411-98ef-e95eed402de1)
 
 Query 5 : show chapters and their specific status count 
 ![Screenshot (37)](https://github.com/user-attachments/assets/a2d8c125-b6b7-40f5-a788-9dff655b75b3)
